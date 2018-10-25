@@ -5,4 +5,5 @@ json.full_name @contact.full_name
 json.email @contact.email
 json.phone_number @contact.phone_number
 json.bio @contact.bio
+json.user_id @contact.user_id
 json.created_at @contact.friendly_created_at
